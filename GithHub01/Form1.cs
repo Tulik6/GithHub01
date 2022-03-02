@@ -23,6 +23,7 @@ namespace GithHub01
             int cislo2 = int.Parse(textBox2.Text);
 
             MessageBox.Show("Součet je " + (cislo1 + cislo2));
+            MessageBox.Show("Rozdíl je " + (cislo1 - cislo2));
         }
     }
 }
