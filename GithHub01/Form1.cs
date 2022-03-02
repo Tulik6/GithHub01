@@ -21,6 +21,7 @@ namespace GithHub01
         {
             int cislo1 = int.Parse(textBox1.Text);
             int cislo2 = int.Parse(textBox2.Text);
+
             MessageBox.Show("Součet je " + (cislo1 + cislo2));
         }
     }
