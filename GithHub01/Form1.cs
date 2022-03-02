@@ -25,6 +25,7 @@ namespace GithHub01
             MessageBox.Show("Součet je " + (cislo1 + cislo2));
             MessageBox.Show("Rozdíl je " + (cislo1 - cislo2));
             MessageBox.Show("Součin je " + (cislo1 * cislo2));
+            MessageBox.Show("Podíl je " + (cislo1 / cislo2));
         }
     }
 }
